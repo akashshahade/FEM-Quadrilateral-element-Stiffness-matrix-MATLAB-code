@@ -1,7 +1,7 @@
 
 clc;clear;
 
-
+% Material properties
  
 E = 1; mu = 0.25;
 t = 1;  % thickness
